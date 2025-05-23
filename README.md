@@ -1,6 +1,4 @@
----
-description: 개발 기록 블로그 1133
----
+description: 개발 기록 블로그
 
 # Intro
 
